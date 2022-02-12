@@ -1,0 +1,12 @@
+name: "N741BigDataCourse2022_distillBlog"
+title: "N741 Big Data Analytics for Healthcare"
+description: |
+  N741 Big Data Analytics for Healthcare
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
